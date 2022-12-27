@@ -4,6 +4,18 @@
 
 <br />
 
+## 유트부 영상 링크들
+
+- [1. 프로젝트 설명](https://youtu.be/K8cXgAnZTUo)
+- [2. 깃 & 깃헙 저장소 연동](https://youtu.be/wPIsOEvIlLI)
+- [3. 베이스 코드 작성 Master Branch](https://youtu.be/qMmdxNW4xD4)
+- [4. Greet 기능 구현 & 자식 branch 생성 & 부모 branch로 합체](https://youtu.be/DeRI6C6Wa-Q)
+- [5. Increment 기능 구현 & 자식 branch 생성 & 부모 branch로 합체](https://youtu.be/b0fQqNEV8Ac)
+- [6. Remove 기능 구현 & 자식 branch 생성 & 부모 branch로 합체](https://youtu.be/9UsVmhuf3ns)
+- [7. 프로젝트를 마치며](https://youtu.be/1s4f7N-9M2k)
+
+<br />
+
 ## 프로젝트 예시 앱
 
 이름: **Click Buttons App**
