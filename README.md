@@ -6,9 +6,12 @@
 
 ## 프로젝트 예시 앱
 
-이름: Click Buttons App
+이름: **Click Buttons App**
+
 타입: 프론트엔드
+
 언어: JavaScript
+
 소스코드 버전 컨트롤: 깃 & 깃헙
 
 <br />
@@ -27,7 +30,7 @@
   <button id="increment">숫자 증가</button>
 
   <!--3. 현존 버튼 모두 지우기 -->
-  <button id="delete">버튼들 삭제</button>
+  <button id="remove">버튼들 삭제</button>
 
   <!-- script file 모듈타입으로 연동시켜주기 -->
   <script type="module" src="./src/index.js"></script>
@@ -39,11 +42,11 @@
 /* src/index.js */
 
 // 1. 인사버튼 기능
-import { greet } from "./greet/index.js";
+import { greet } from "./greet.js";
 // 2. 증가버튼 기능
-import { increment } from "./increment/index.js";
+import { increment } from "./increment.js";
 // 3. 삭제버튼 기능
-import { remove } from "./remove/index.js";
+import { remove } from "./remove.js";
 
 greet();
 increment();
